@@ -1,4 +1,4 @@
-## [MDSupCL](https://openaccess.thecvf.com/content/WACV2024/html/Rani_Activity-Based_Early_Autism_Diagnosis_Using_a_Multi-Dataset_Supervised_Contrastive_Learning_WACV_2024_paper.html) - Activity-based Early Autism Diagnosis Using A Multi-Dataset Supervised Contrastive Learning Approach [WACV 2024](https://wacv2024.thecvf.com/)
+### [MDSupCL](https://openaccess.thecvf.com/content/WACV2024/html/Rani_Activity-Based_Early_Autism_Diagnosis_Using_a_Multi-Dataset_Supervised_Contrastive_Learning_WACV_2024_paper.html) - Activity-based Early Autism Diagnosis Using A Multi-Dataset Supervised Contrastive Learning Approach [WACV 2024](https://wacv2024.thecvf.com/)
 
 Link to pretrained models : 
 We have released model checkpoints here. Code and pretrained model for remaining compared methods is available [here](https://github.com/asharani97/CLRE_autism).
