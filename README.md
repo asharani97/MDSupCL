@@ -5,12 +5,12 @@ We will released model checkpoints for all the methods here. Code and pretrained
 |Model Name and pretrained model|  Hand Gesture Dataset (%)  |
 |-------   | ---------------------------|
 |[MSupCL]  |            84.49           |
-|[MSSCL]   |            57.22           |
+<!--|[MSSCL]   |            57.22           |-->
 
 |Model Name and pretrained model |        Autism Dataset (%)    |
 |-------                         | ---------------------------  |
 |[MSupCL]                        |            99.07             |
-|[MSSCL]                         |            96.95             |
+<!--|[MSSCL]                         |            96.95             |-->
 
 ## Environment Setup
 Our models are trained with GPU.
