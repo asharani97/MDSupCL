@@ -2,14 +2,14 @@
 
 Link to pretrained models : 
 We will released model checkpoints for all the methods here. Code and pretrained model for remaining compared methods is available [here](https://github.com/asharani97/CLRE_autism).
-|Model Name and pretrained model|  Hand Gesture Dataset (%)  |
-|-------   | ---------------------------|
-|[MSupCL]  |            84.49           |
+|                              Model Name and pretrained model                                    |  Hand Gesture Dataset (%)  |
+|----------------------------------------------------------------------------------------------   | ---------------------------|
+|[MSupCL](https://drive.google.com/file/d/10wRCUK77Y2moMuM0SRH8c3zmZqrTuxi5/view?usp=drive_link)  |            84.49           |
 <!--|[MSSCL]   |            57.22           |-->
 
-|Model Name and pretrained model |        Autism Dataset (%)    |
-|-------                         | ---------------------------  |
-|[MSupCL]                        |            99.07             |
+|                              Model Name and pretrained model                                  |        Autism Dataset (%)    |
+|--------------------------------------------------------------------------------------------   | ---------------------------  |
+|[MSupCL](https://drive.google.com/file/d/1eV_mVDBDiEcI-JVj0Qa5A8xf8ETdXv3B/view?usp=sharing)   |            99.07             |
 <!--|[MSSCL]                         |            96.95             |-->
 
 ## Environment Setup
