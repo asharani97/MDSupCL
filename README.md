@@ -5,7 +5,7 @@ We have released model checkpoints here. Code and pretrained model for remaining
 |                              Model Name and pretrained model                                    |  Hand Gesture Dataset (%)  |
 |----------------------------------------------------------------------------------------------   | ---------------------------|
 |[MSupCL](https://drive.google.com/file/d/10wRCUK77Y2moMuM0SRH8c3zmZqrTuxi5/view?usp=drive_link)  |            84.49           |
-<!--|[MSSCL]   |            57.22           |-->
+|[MSSCL](https://drive.google.com/file/d/1mxsBM-WXM_omUcHHN8V8cF-e4Ysr5b1F/view?usp=sharing)      |            57.22           |
 
 |                              Model Name and pretrained model                                  |        Autism Dataset (%)    |
 |--------------------------------------------------------------------------------------------   | ---------------------------  |
