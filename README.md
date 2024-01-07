@@ -10,7 +10,7 @@ We have released model checkpoints here. Code and pretrained model for remaining
 |                              Model Name and pretrained model                                  |        Autism Dataset (%)    |
 |--------------------------------------------------------------------------------------------   | ---------------------------  |
 |[MSupCL](https://drive.google.com/file/d/1eV_mVDBDiEcI-JVj0Qa5A8xf8ETdXv3B/view?usp=sharing)   |            99.07             |
-<!--|[MSSCL]                         |            96.95             |-->
+|[MSSCL](https://drive.google.com/file/d/15N4fjUOKquLOVOJFpFGvcw0nUcGeNTG4/view?usp=sharing)    |            96.95             |
 
 ## Environment Setup
 Our models are trained with GPU.
