@@ -4,7 +4,7 @@ Link to pretrained models :
 We have released pretrained models here. Code and pretrained model for remaining compared methods is available [here](https://github.com/asharani97/CLRE_autism).
 |                              Model Name and pretrained model                                    |  Hand Gesture Dataset (%)  |
 |----------------------------------------------------------------------------------------------   | ---------------------------|
-|[MSupCL](https://drive.google.com/file/d/10wRCUK77Y2moMuM0SRH8c3zmZqrTuxi5/view?usp=drive_link)  |            84.49           |
+|[MSupCL](https://drive.google.com/file/d/1h7a-LNja8ogeU-K9mu5c2VTpui-p186D/view?usp=sharing)     |            84.49           |
 |[MSSCL](https://drive.google.com/file/d/1mxsBM-WXM_omUcHHN8V8cF-e4Ysr5b1F/view?usp=sharing)      |            57.22           |
 
 |                              Model Name and pretrained model                                  |        Autism Dataset (%)    |
